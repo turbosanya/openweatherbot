@@ -1,2 +1,2 @@
 # openweatherbot
-Telegram bot that uses the API to share the current weather
+Telegram bot that uses the OpenWeatherAPI to share the current weather
